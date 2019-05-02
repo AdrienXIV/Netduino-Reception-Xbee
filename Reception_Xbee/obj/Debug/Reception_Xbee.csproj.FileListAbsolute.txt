@@ -1,0 +1,21 @@
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Reception_Xbee.exe.config
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Reception_Xbee.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Reception_Xbee.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\obj\Debug\Reception_Xbee.csprojResolveAssemblyReference.cache
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\obj\Debug\Reception_Xbee.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Xbee\Reception_Xbee\Reception_Xbee\obj\Debug\Reception_Xbee.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Reception_Xbee.exe.config
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\obj\Debug\Reception_Xbee.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\obj\Debug\Reception_Xbee.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Reception_Xbee.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Reception_Xbee.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Reception_Xbee_Essai\Reception_Xbee\obj\Debug\Reception_Xbee.csprojResolveAssemblyReference.cache
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Xbee\Reception\Reception_Xbee_Essai\Reception_Xbee\bin\Debug\Reception_Xbee.exe.config
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Xbee\Reception\Reception_Xbee_Essai\Reception_Xbee\obj\Debug\Reception_Xbee.exe
+C:\Users\adri_\Documents\BTS SNIR 2e année\Projet\Projet\Code\Essais Unitaires\Netduino\Xbee\Reception\Reception_Xbee_Essai\Reception_Xbee\obj\Debug\Reception_Xbee.pdb
